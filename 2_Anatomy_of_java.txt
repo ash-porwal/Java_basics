@@ -1,0 +1,10 @@
+Anatomy of java
+    Documentation Section...means hum comment likh sakte hai koi aur Programmer ko btane ke liye.
+    Package Statement... Classes jitni bhi banti hai ..humko btana hota hai ki wo class kis package mein belong kar rahi hai...and it is totally optional
+    Import Statement .. jaise ki Scanf() Statement to take input from the users.
+    Interface Statement
+    Class definition.
+
+1bytes mein 8 bites hoti hai.and its value goes from -128 to +127
+
+and if somethings has n bytes then its value range should be -(2^(n*8)/2 to 2^(n*8)/2 - 1)
